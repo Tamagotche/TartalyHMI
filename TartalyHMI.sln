@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34729.46
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FE7A1B72-C5B7-4D7C-BB7D-76384D4DE8E1}") = "TartalyHMI", "TartalyHMI\TartalyHMI.hmiproj", "{FA741734-3ABC-4354-9F7E-81A8D0613AD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|TwinCAT HMI = Debug|TwinCAT HMI
+		Release|TwinCAT HMI = Release|TwinCAT HMI
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA741734-3ABC-4354-9F7E-81A8D0613AD3}.Debug|TwinCAT HMI.ActiveCfg = Debug|TwinCAT HMI
+		{FA741734-3ABC-4354-9F7E-81A8D0613AD3}.Debug|TwinCAT HMI.Build.0 = Debug|TwinCAT HMI
+		{FA741734-3ABC-4354-9F7E-81A8D0613AD3}.Release|TwinCAT HMI.ActiveCfg = Release|TwinCAT HMI
+		{FA741734-3ABC-4354-9F7E-81A8D0613AD3}.Release|TwinCAT HMI.Build.0 = Release|TwinCAT HMI
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0EDF246-5137-4098-97FD-9E62AE229CF8}
+	EndGlobalSection
+EndGlobal
